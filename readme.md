@@ -30,3 +30,9 @@
 
 ## Compiladores
 - [https://github.com/RianValcanaia/COM_Compilador/tree/main](https://github.com/RianValcanaia/COM_Compilador/tree/main)
+
+## Engenharia de Software
+- [https://github.com/RianValcanaia/SOFT_Testes_Unitarios](https://github.com/RianValcanaia/SOFT_Testes_Unitarios)
+
+## Banco de Dados 1
+- [https://github.com/RianValcanaia/BAN_Plataforma_Doacoes](https://github.com/RianValcanaia/BAN_Plataforma_Doacoes)
