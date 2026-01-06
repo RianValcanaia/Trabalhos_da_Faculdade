@@ -39,3 +39,4 @@
 
 ## Computação Gráfica
 - [Modelagem 3D com quádricas em OpenGL](https://github.com/RianValcanaia/CGR_TC1_Quadricas)
+- [Simulação de Partículas: Chafariz 3D](https://github.com/RianValcanaia/TC2_Particulas)
