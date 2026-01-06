@@ -36,3 +36,6 @@
 
 ## Banco de Dados 1
 - [Plataforma de Doações](https://github.com/RianValcanaia/BAN_Plataforma_Doacoes)
+
+## Computação Gráfica
+- [Modelagem 3D com quádricas em OpenGL](https://github.com/RianValcanaia/CGR_TC1_Quadricas)
