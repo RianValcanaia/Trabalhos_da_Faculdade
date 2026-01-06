@@ -40,3 +40,4 @@
 ## Computação Gráfica
 - [Modelagem 3D com quádricas em OpenGL](https://github.com/RianValcanaia/CGR_TC1_Quadricas)
 - [Simulação de Partículas: Chafariz 3D](https://github.com/RianValcanaia/CGR_TC2_Particulas)
+- [Modelador 3D: Técnicas de Sweep](https://github.com/RianValcanaia/CGR_Modelador_Sweep_2D_para_3D)
